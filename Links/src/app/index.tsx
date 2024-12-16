@@ -5,6 +5,7 @@ export default function Index() {
         <View style={{flex: 1, justifyContent: "center", alignItems:"center"}}>
             <Text>
                 Hello React Native!
+                Salve
             </Text>
         </View>
     )
