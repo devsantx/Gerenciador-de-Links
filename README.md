@@ -73,22 +73,7 @@ Como alternativa, consulte a [documentação do GitHub](https://help.github.com/
 
 ## 🤝 Colaboradores
 
-<table> 
-  <tr> 
-    <td align="center"> 
-      <a href="https://github.com/devsantx"> 
-        <img src="https://avatars.githubusercontent.com/u/151431163?s=400&u=dd2cd1bac5c51e202b1d8c75439bcd213838fda1&v=4" width="100px;" alt="Foto de Kauan Santana"/><br> 
-        <sub> <b>Kauan Santana</b> </sub> 
-      </a> 
-    </td> 
-    <td align="center"> 
-      <a href="https://www.rocketseat.com.br/"> 
-        <img src="https://media.licdn.com/dms/image/D4D0BAQEFKEYZhCbjFA/company-logo_200_200/0/1733019768288?e=1742428800&v=beta&t=7J-3lG16JIPjcng-av8RCEwhE8Z1TxgI8M7_nmNlvQQ" width="100px;" alt="Logo da Rocketseat"/><br> 
-        <sub> <b>Rocketseat</b> </sub> 
-      </a> 
-    </td> 
-  </tr> 
-</table>  
+<table> <tr> <td align="center"> <a href="https://github.com/devsantx"> <img src="https://avatars.githubusercontent.com/u/151431163?s=400&u=dd2cd1bac5c51e202b1d8c75439bcd213838fda1&v=4" width="100px;" alt="Foto do Kauan Santana"/><br> <sub> <b>Kauan Santana</b> </sub> </a> </td> <td align="center"> <a href="https://www.rocketseat.com.br/"> <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEFKEYZhCbjFA/company-logo_200_200/company-logo_200_200/0/1733019768288?e=1742428800&v=beta&t=7J-3lG16JIPjcng-av8RCEwhE8Z1TxgI8M7_nmNlvQQ" width="100px;" alt="Logo da Rocketseat"/><br> <sub> <b>Rocketseat</b> </sub> </a> </td> </tr> </table>
 
 ## 🤝 Agradecimentos
 
